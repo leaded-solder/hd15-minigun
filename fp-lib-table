@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Connector_TE_AMP_HD15)(type KiCad)(uri ${KIPRJMOD}/Connector_TE_AMP_HD15.pretty)(options "")(descr ""))
+  (lib (name MinigunParts)(type KiCad)(uri ${KIPRJMOD}/MinigunParts.pretty)(options "")(descr ""))
 )
