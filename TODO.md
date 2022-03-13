@@ -1,0 +1,2 @@
+ - [x] coupling caps for r, g, b?
+ - [x] series 75 ohm for r, g, b?
