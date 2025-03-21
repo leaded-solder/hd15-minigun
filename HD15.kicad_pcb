@@ -15317,7 +15317,8 @@
 		(effects
 			(font
 				(size 1.2 1.2)
-				(thickness 0.045)
+				(thickness 0.24)
+				(bold yes)
 			)
 			(justify left)
 		)
